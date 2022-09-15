@@ -1,0 +1,34 @@
+VS-Code 
+=======
+Open terminal - ctrl + `
+open a file - ctrl+p
+Jump To The Beginning Or End Of File - ctrl + home/end
+command pallete - ctrl+shift+p
+toggle side-bar - ctrl+b
+Move to Explorer window - Ctrl+Shift+E 
+search  		- ctrl+f , ctrl+shift+f
+select word - ctrl + d
+delete word 	- ctrl + DEl
+Quick fix  -  ctrl + .
+select text word by word - ctrl+shift+arrow
+move line up    - ctrl + up-arrow
+move line down    - ctrl + down-arrow
+copy line up    - ctrl + shift + up-arrow
+copy line down    - ctrl + shift + down-arrow
+Add Multiple cursors - alt+click
+select a line - ctrl+l
+Delete Line 		- ctrl+shift+k
+Select all results of find - alt+enter
+open next tab - ctrl+tab
+navigate to a line - ctrl+g
+format code - alt+shift + f
+format only selected lines - ctrl + K, then ctrl + F
+comment - ctrl+/   shift+alt+a
+code folding - ctrl+shift+[  
+close tab - ctrl+W
+close all - ctrl + k + w
+Split editor view -  CTRL+\
+Zen mode   -  ctrl + K, then Z
+rename   - f2
+theme change - ctrl + k + t
+to find all shortcuts  - ctrl+k+s
