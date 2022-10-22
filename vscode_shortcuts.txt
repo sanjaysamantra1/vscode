@@ -11,10 +11,10 @@ select word - ctrl + d
 delete word 	- ctrl + DEl
 Quick fix  -  ctrl + .
 select text word by word - ctrl+shift+arrow
-move line up    - ctrl + up-arrow
-move line down    - ctrl + down-arrow
-copy line up    - ctrl + shift + up-arrow
-copy line down    - ctrl + shift + down-arrow
+move line up    - alt + up-arrow
+move line down    - alt + down-arrow
+copy line up    - alt + shift + up-arrow
+copy line down    - alt + shift + down-arrow
 Add Multiple cursors - alt+click
 select a line - ctrl+l
 Delete Line 		- ctrl+shift+k
