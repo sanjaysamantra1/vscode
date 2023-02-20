@@ -27,6 +27,7 @@ comment - ctrl+/   shift+alt+a
 code folding - ctrl+shift+[  
 close tab - ctrl+W
 close all - ctrl + k + w
+Reveal in file explorer - Alt + Shift + R
 Split editor view -  CTRL+\
 Zen mode   -  ctrl + K, then Z
 rename   - f2
