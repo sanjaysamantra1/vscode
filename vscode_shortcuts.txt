@@ -18,6 +18,7 @@ copy line down    - alt + shift + down-arrow
 Add Multiple cursors - alt+click
 select a line - ctrl+l
 Delete Line 		- ctrl+shift+k  /   ctrl+x
+word wrap for a long line - Alt + Z
 Select all results of find - alt+enter
 open next tab - ctrl+tab
 navigate to a line - ctrl+g
