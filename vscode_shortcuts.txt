@@ -1,5 +1,5 @@
-VS-Code 
-=======
+VS-Code shorcuts
+=================
 Open terminal - ctrl + `
 open a file - ctrl+p  /  ctrl+e
 Jump To The Beginning Or End Of File - ctrl + home/end
