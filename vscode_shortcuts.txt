@@ -34,3 +34,6 @@ Zen mode   -  ctrl + K, then Z
 rename   - f2
 theme change - ctrl + k + t
 to find all shortcuts  - ctrl+k+s
+
+
+https://docs.emmet.io/cheat-sheet/
